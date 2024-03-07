@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 #### npm install
 #### npm run dev
 
-#### install
+# install
 ##### npm i react-router-dom
 ##### npm install yup
 ##### npm install formik
