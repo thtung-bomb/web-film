@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 #### npm run dev
 
 #### install
-npm i react-router-dom
-npm install yup
-npm install formik
-npm install @mui/material @emotion/react @emotion/styled
+##### npm i react-router-dom
+##### npm install yup
+##### npm install formik
+##### npm install @mui/material @emotion/react @emotion/styled
